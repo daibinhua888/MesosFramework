@@ -1,0 +1,5 @@
+d:\documents\visual studio 2017\Projects\MesosFramework\Scheduler\bin\Debug\Scheduler.exe.config
+d:\documents\visual studio 2017\Projects\MesosFramework\Scheduler\bin\Debug\Scheduler.exe
+d:\documents\visual studio 2017\Projects\MesosFramework\Scheduler\bin\Debug\Scheduler.pdb
+d:\documents\visual studio 2017\Projects\MesosFramework\Scheduler\obj\Debug\Scheduler.exe
+d:\documents\visual studio 2017\Projects\MesosFramework\Scheduler\obj\Debug\Scheduler.pdb

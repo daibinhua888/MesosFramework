@@ -1,0 +1,5 @@
+d:\documents\visual studio 2017\Projects\MesosFramework\Executor\bin\Debug\Executor.exe.config
+d:\documents\visual studio 2017\Projects\MesosFramework\Executor\bin\Debug\Executor.exe
+d:\documents\visual studio 2017\Projects\MesosFramework\Executor\bin\Debug\Executor.pdb
+d:\documents\visual studio 2017\Projects\MesosFramework\Executor\obj\Debug\Executor.exe
+d:\documents\visual studio 2017\Projects\MesosFramework\Executor\obj\Debug\Executor.pdb
